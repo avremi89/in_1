@@ -18,7 +18,7 @@ function App() {
                 <Link className="nav-link" to="/">List</Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/Single/">Single</Link>
+                <Link className="nav-link" to="/Single/">Single</Link> 
               </li>
 
 
